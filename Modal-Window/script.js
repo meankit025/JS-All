@@ -29,6 +29,3 @@ for (let i = 0; i < btnOpenModal.length; i++) {
     }
   });
 }
-
-// /priyanka.shiravale@velotio.com
-//  sunanda.painot@hcl.com.
